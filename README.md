@@ -1,6 +1,6 @@
-# Vector Similarity Search and Clustering in C
+# Vector Similarity Search and Clustering
 
-This repository contains a C implementation for vector-based data searching and clustering. It includes:
+This repository contains an implementation for vector-based data searching and clustering. It includes:
 - Locality Sensitive Hashing (LSH)
 - Hypercube
 - Clustering (k-medians with various methods)
